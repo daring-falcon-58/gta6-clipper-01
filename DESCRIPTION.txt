@@ -1,0 +1,19 @@
+TITLE (use this exact title when publishing):
+GTA 6 Trailer 2 — The Getaway in 42 Seconds #Shorts
+
+DESCRIPTION (paste exactly as below — the first line is REQUIRED word for word,
+and the play code must appear in the video description or the channel description):
+Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+
+The best 42 seconds of GTA VI Trailer 2 — the job goes wrong, then Lucia & Jason make their getaway through Vice City at dusk. Cut by my AI agent for the make.fun bounty.
+
+makefun-grotto-wardrobe-puppy
+
+#GTA6 #GrandTheftAutoVI #GTA6Trailer #Shorts #ViceCity #RockstarGames
+
+PUBLISH SETTINGS:
+- Visibility: PUBLIC (not unlisted, not private) — keep public until results are out (due Dec 7, 2026).
+- Format: Short (vertical 1080x1920, 42s — uploads as a Short automatically).
+- Publish window: after Nov 20 08:00 WIB and before Nov 23 08:00 WIB.
+- After publishing, copy the Share URL (https://www.youtube.com/shorts/<id>) and send it back —
+  it goes into VIDEO.json in the repo before the entry is submitted.
